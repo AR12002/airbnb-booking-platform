@@ -52,8 +52,6 @@ mvnw.cmd spring-boot:run
 
 ## Environment Variables
 
-See `.env.example` for the variables used by the application.
-
 Never commit real passwords, JWT secrets, Stripe keys, or webhook secrets to GitHub.
 
 ## API Base URL
